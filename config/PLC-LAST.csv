@@ -1,0 +1,3 @@
+﻿deviceId,deviceName,description,channelType,driver,retryInterval,commTimeout,deviceSeries,series,addr,port,varNumber,isActive,updateTime
+3e697bee-23f0-4817-884e-7f4dc7fd9eaa,HYDPLCL003,黄崖洞 欧姆龙CJ2M,Ethernet,OMRON_Ethernet,30,3000,CJ_Ethernet,"[""欧姆龙"",""CJ_Ethernet"",""OMRON_Ethernet""]",14.168.130.12,0,2,,2024-11-13 14:29:05
+2d613f3a-d30b-4892-9435-bf896ce9ed09,HLPLCR003,横岭 欧姆龙CJ2M,Ethernet,OMRON_Ethernet,30,3000,CJ_Ethernet,"[""欧姆龙"",""CJ_Ethernet"",""OMRON_Ethernet""]",14.168.130.20,0,0,,2024-11-13 14:29:05

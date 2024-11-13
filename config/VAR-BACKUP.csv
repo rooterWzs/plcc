@@ -1,0 +1,3 @@
+﻿tagId,tagName,description,deviceName,deviceId,tagType,tagDataType,itemName,regName,regType,itemDataType,itemAccessMode,collectInterval,tagGroup,updateTime
+50d3bcde-1690-4b0c-8903-d886c3805b54,short1,short类型,HYDPLCL003,3e697bee-23f0-4817-884e-7f4dc7fd9eaa,用户变量,IOShort,100,DM,,SHORT,只读,1,group01,
+3206c8d3-0c13-461b-a72f-a2d7d92a4b47,ioword,,HYDPLCL003,3e697bee-23f0-4817-884e-7f4dc7fd9eaa,用户变量,IOWord,100,CIO,,BCD,读写,1,group02,
