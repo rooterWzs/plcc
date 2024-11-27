@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="plc-communication">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plc-communication.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
