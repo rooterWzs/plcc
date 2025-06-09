@@ -19,7 +19,7 @@
 # 三、使用方式：
 安装JDK1.8（[点击下载](https://www.oracle.com/java/technologies/downloads/#java8)）
 
-打开CMD，通过** java -jar plc-communication.jar** 启动，在浏览器打开**127.0.0.1:8080** 访问
+打开CMD，通过** java --file.encoding='UTF-8' -jar plc-communication.jar** 启动，在浏览器打开**127.0.0.1:8080** 访问
 
 
 
