@@ -1,0 +1,89 @@
+{
+  "S7-1200": {
+    "I": ["BIT","BYTE","SHORT","USHORT","FLOAT"],
+    "Q": ["BIT","BYTE"],
+    "M": ["BIT","BYTE","SHORT","USHORT","LONG","LONGBCD","FLOAT","DOUBLE"],
+    "DB": ["BIT","BYTE","SHORT","USHORT","LONG","LONGBCD","FLOAT","STRING","DOUBLE"]
+  },
+  "ModbusTCP": {
+    "0": ["BIT"],
+    "1": ["BIT"],
+    "3": ["BIT","BYTE","SHORT","USHORT","BCD","LONG","LONGBCD","FLOAT","STRING","DOUBLE"],
+    "4": ["BIT","BYTE","SHORT","USHORT","BCD","LONG","LONGBCD","FLOAT","STRING","DOUBLE","INT64"],
+    "6": ["BIT","BYTE","SHORT","USHORT","BCD","LONG","LONGBCD","FLOAT","STRING","DOUBLE","INT64"]
+  },
+  "ModbusRTU": {
+    "0": ["BIT"],
+    "1": ["BIT"],
+    "3": ["BIT","BYTE","SHORT","USHORT","BCD","LONG","LONGBCD","FLOAT","STRING","DOUBLE"],
+    "4": ["BIT","BYTE","SHORT","USHORT","BCD","LONG","LONGBCD","FLOAT","STRING","DOUBLE","INT64"],
+    "6": ["BIT","BYTE","SHORT","USHORT","BCD","LONG","LONGBCD","FLOAT","STRING","DOUBLE","INT64"]
+  },
+  "CJ_Ethernet": {
+    "CIO": [
+      "BIT","BYTE","SHORT","USHORT","BCD","LONG","LONGBCD","FLOAT","STRING"
+    ],
+    "WR": [
+      "BIT","BYTE","SHORT","USHORT","BCD","LONG","LONGBCD","FLOAT","STRING"
+    ],
+    "HR": [
+      "BIT","BYTE","SHORT","USHORT","BCD","LONG","LONGBCD","FLOAT","STRING"
+    ],
+    "AR": [
+      "BIT","BYTE","SHORT","USHORT","BCD","LONG","LONGBCD","FLOAT","STRING"
+    ],
+    "TCF": [
+      "BIT"
+    ],
+    "CCF": [
+      "BIT"
+    ],
+    "TIM": [
+      "SHORT","USHORT","BCD"
+    ],
+    "CNT": [
+      "SHORT","USHORT","BCD"
+    ],
+    "DM": [
+      "BIT","BYTE","SHORT","USHORT","BCD","LONG","LONGBCD","FLOAT","STRING"
+    ],
+    "EM": [
+      "BIT","BYTE","SHORT","USHORT","BCD","LONG","LONGBCD","FLOAT","STRING"
+    ],
+    "ZFCFX": [
+      "BIT"
+    ]
+  },
+  "CS_Ethernet": {
+    "CIO": [
+      "BIT","BYTE","SHORT","USHORT","BCD","LONG","LONGBCD","FLOAT","STRING"
+    ],
+    "WR": [
+      "BIT","BYTE","SHORT","USHORT","BCD","LONG","LONGBCD","FLOAT","STRING"
+    ],
+    "HR": [
+      "BIT","BYTE","SHORT","USHORT","BCD","LONG","LONGBCD","FLOAT","STRING"
+    ],
+    "AR": [
+      "BIT","BYTE","SHORT","USHORT","BCD","LONG","LONGBCD","FLOAT","STRING"
+    ],
+    "TCF": [
+      "BIT"
+    ],
+    "CCF": [
+      "BIT"
+    ],
+    "TIM": [
+      "SHORT","USHORT","BCD"
+    ],
+    "CNT": [
+      "SHORT","USHORT","BCD"
+    ],
+    "DM": [
+      "BIT","BYTE","SHORT","USHORT","BCD","LONG","LONGBCD","FLOAT","STRING"
+    ],
+    "EM": [
+      "BIT","BYTE","SHORT","USHORT","BCD","LONG","LONGBCD","FLOAT","STRING"
+    ]
+  }
+}

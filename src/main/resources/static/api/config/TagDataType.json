@@ -1,0 +1,14 @@
+{
+  "IODisc": "IODisc",
+  "IOChar": "IOChar",
+  "IOByte": "IOByte",
+  "IOShort": "IOShort",
+  "IOWord": "IOWord",
+  "IOLong": "IOLong",
+  "IODWord": "IODWord",
+  "IOFloat": "IOFloat",
+  "IOString": "IOString",
+  "IOBlob": "IOBlob",
+  "IODouble": "IODouble",
+  "IOInt64": "IOInt64"
+}

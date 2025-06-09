@@ -1,0 +1,18 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /
+
+spring:
+  application:
+    name: plcc
+  # 文件编码 UTF8
+  mandatory-file-encoding: UTF-8
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+  web:
+    resources:
+      welcome-page: index.html  # 指定欢迎页面为 index.html
+      static-locations: classpath:/static/   # 指定静态资源目录
+

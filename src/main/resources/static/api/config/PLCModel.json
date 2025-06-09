@@ -1,0 +1,48 @@
+[
+  {
+    "value": "西门子",
+    "label": "西门子",
+    "children": [
+      {
+        "value": "S7-1200",
+        "label": "S7-1200"
+      },
+      {
+        "value": "S7-200",
+        "label": "S7-200"
+      }
+    ]
+  },
+  {
+    "value": "欧姆龙",
+    "label": "欧姆龙",
+    "children": [
+      {
+        "value": "CJ_Ethernet",
+        "label": "CJ_Ethernet"
+      },
+      {
+        "value": "CS_Ethernet",
+        "label": "CS_Ethernet"
+      }
+    ]
+  },
+  {
+    "value": "Modbus",
+    "label": "莫迪康",
+    "children": [
+      {
+        "value": "ModbusTCP",
+        "label": "ModbusTCP"
+      },
+      {
+        "value": "ModbusRTU",
+        "label": "ModbusRTU"
+      },
+      {
+        "value": "ModbusASCII",
+        "label": "ModbusASCII"
+      }
+    ]
+  }
+]
